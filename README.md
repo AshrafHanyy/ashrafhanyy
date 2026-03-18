@@ -1,98 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,100:06b6d4&height=120&section=header&text=Ashraf%20Hany&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Medical%20Imaging&descSize=14&descAlignY=85&descColor=bae6fd"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Ashraf%20Hany&fontSize=48&fontColor=22d3ee&fontAlignY=60&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Medical%20Imaging&descSize=16&descAlignY=80&descColor=94a3b8"/>
 
 </div>
 
 <div align="center">
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=6R0e7NQAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-ashrafhanyy-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashrafhanyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-hany-/)
+<a href="https://scholar.google.com/citations?user=6R0e7NQAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Scholar-Publications-0f172a?style=flat-square&logo=googlescholar&logoColor=white"/>
+</a>
+<a href="https://github.com/ashrafhanyy">
+  <img src="https://img.shields.io/badge/GitHub-ashrafhanyy-0f172a?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ashraf-hany-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
 ## About
 
-I am an Egyptian computer scientist, researcher, and teaching assistant at Modern Sciences and Arts University (MSA), with a focus on AI, deep learning, and robotics. I have published research in deep learning, natural language processing, and human–computer interaction. As an undergraduate, I founded the MSA CPC Community Club to prepare students for competitive programming competitions, and as a teaching assistant, I have taught computer science courses including Embedded Systems and Analysis of Algorithms. Alongside my academic work, I freelance as a data analyst on Upwork and have earned Top Rated Freelancer achievement. My undergraduate projects earned multiple awards, including third place in the Engineering Track of NU’s Undergraduate Research Forum for building a Game Boy–inspired console. I also won second place at Egypt’s first Quantum AI Hackathon. I plan to pursue an MSc degree to further my research career.
+Computer scientist, researcher, and teaching assistant at MSA University.
 
-<br/>
+My work focuses on **deep learning for computer vision**, particularly in **medical imaging and microscopic analysis**. I am interested in building systems that bridge rigorous research with real-world clinical impact.
 
-## Research
+Alongside academia, I have:
+- Founded the MSA CPC Community Club
+- Published research across AI-related domains
+- Worked as a Top Rated data analyst on Upwork
+- Built award-winning engineering projects
 
-> Published academic research in **computer vision and AI for medical imaging**.
+---
 
-My work involves developing deep learning architectures for microscopic image segmentation and automated disease detection. Emphasis on rigorous experimental design, dataset curation, and evaluation methodology.
+## Research Focus
 
-📎 Full publication list on [**Google Scholar**](https://scholar.google.com/citations?user=6R0e7NQAAAAJ&hl=en)
+- Medical image segmentation  
+- Deep learning architectures  
+- Computer vision systems  
+- Applied machine learning  
 
-<br/>
+📎 Full publications:  
+https://scholar.google.com/citations?user=6R0e7NQAAAAJ&hl=en
 
-## Thesis — Deep Learning for Multiple Myeloma Detection
+---
 
-| | |
-|---|---|
-| **Task** | Segmentation of malignant plasma cells in bone marrow microscopy |
-| **Dataset** | `SegPC2021` — microscopic cell imaging benchmark |
-| **Method** | Deep learning segmentation with binary mask prediction |
-| **Pipeline** | Preprocessing → Segmentation → Detection → Cell counting → Evaluation |
+## Thesis  
+**Deep Learning for Multiple Myeloma Detection**
 
-<br/>
+- Segmentation of malignant plasma cells  
+- Dataset: `SegPC2021`  
+- Binary mask prediction pipeline  
+- Cell detection and counting  
 
-## Research Interests
+---
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  Computer Vision          NLP                           │
-│  Deep Learning            Machine Learning              │
-│  Scientific Computing     HCI                           │
-└─────────────────────────────────────────────────────────┘
-```
+## Tech Stack
 
-<br/>
+**Languages**
+`Python` `C` `C++`
 
-## Technical Stack
+**ML / AI**
+`TensorFlow` `Keras` `scikit-learn` `XGBoost`
 
-**Core languages**
+**Computer Vision**
+`OpenCV` `NumPy` `Matplotlib`
 
-![Python](https://img.shields.io/badge/Python-0369a1?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-0284c7?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0ea5e9?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-06b6d4?style=flat-square&logo=git&logoColor=white)
+---
 
-**Machine learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0369a1?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-0284c7?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0ea5e9?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-06b6d4?style=flat-square&logo=xgboost&logoColor=white)
-
-**Computer vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-0369a1?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0284c7?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0ea5e9?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ashrafhanyy&show_icons=true&count_private=true&title_color=06b6d4&text_color=e0f2fe&icon_color=0ea5e9&bg_color=0c1a2e&hide_border=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhanyy&layout=compact&title_color=06b6d4&text_color=e0f2fe&bg_color=0c1a2e&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ashrafhanyy&show_icons=true&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=22d3ee&bg_color=00000000"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhanyy&layout=compact&hide_border=true&title_color=22d3ee&text_color=94a3b8&bg_color=00000000"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafhanyy&stroke=e0f2fe&background=0c1a2e&ring=06b6d4&fire=0ea5e9&currStreakNum=e0f2fe&currStreakLabel=06b6d4&sideNums=e0f2fe&sideLabels=e0f2fe&dates=7dd3fc&hide_border=true"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -100,8 +84,4 @@ My work involves developing deep learning architectures for microscopic image se
 
 *"Research turns ideas into knowledge. Engineering turns knowledge into impact."*
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0369a1&height=80&section=footer"/>
 </div>
