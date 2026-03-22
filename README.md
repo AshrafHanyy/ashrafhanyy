@@ -56,19 +56,6 @@ https://scholar.google.com/citations?user=6R0e7NQAAAAJ&hl=en
 
 ---
 
-## Tech Stack
-
-**Languages**
-`Python` `C` `C++`
-
-**ML / AI**
-`TensorFlow` `Keras` `scikit-learn` `XGBoost`
-
-**Computer Vision**
-`OpenCV` `NumPy` `Matplotlib`
-
----
-
 ## GitHub
 
 <div align="center">
